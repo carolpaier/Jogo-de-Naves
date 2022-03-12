@@ -61,7 +61,7 @@ reposicionaAmigo();
 
 ***** js.js *****
 
-//Explosão3
+//Explosï¿½o3
 	
 function explosao3(amigoX,amigoY) {
 $("#fundoGame").append("<div id='explosao3' class='anima4'></div");
@@ -75,4 +75,4 @@ tempoExplosao3=null;
 		
 }
 
-} // Fim da função explosao3
+} // Fim da funï¿½ï¿½o explosao3

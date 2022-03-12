@@ -54,6 +54,6 @@ function placar() {
 	
 	$("#placar").html("<h2> Pontos: " + pontos + " Salvos: " + salvos + " Perdidos: " + perdidos + "</h2>");
 	
-} //fim da função placar()
+} //fim da funï¿½ï¿½o placar()
 
 

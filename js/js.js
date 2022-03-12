@@ -66,6 +66,7 @@ moveamigo();
 colisao();
 placar();
 energia();
+gameOver();
 
 } // Fim da função loop()
 

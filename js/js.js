@@ -254,6 +254,7 @@ if (colisao6.length>0) {
 	} //Fim da função colisao()
 
 	//Explosão 1
+
 function explosao1(inimigo1X,inimigo1Y) {
 	$("#fundoGame").append("<div id='explosao1'></div");
 	$("#explosao1").css("background-image", "url(imgs/explosao.png)");
@@ -313,8 +314,6 @@ function reposicionaInimigo2() {
 		}	
 	}	
 
-
-
 //Explosão2
 	
 function explosao2(inimigo2X,inimigo2Y) {
@@ -353,7 +352,6 @@ function explosao3(amigoX,amigoY) {
 			
 	}
 	
-	} // Fim da função explosao3
+	} 	// Fim da função explosao3
 	
-
 } // Fim da função start

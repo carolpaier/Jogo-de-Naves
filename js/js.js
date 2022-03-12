@@ -51,6 +51,7 @@ moveinimigo1();
 moveinimigo2();
 moveamigo();
 colisao();
+placar();
 
 } // Fim da função loop()
 
@@ -362,5 +363,11 @@ function explosao3(amigoX,amigoY) {
 	}
 	
 	} 	// Fim da função explosao3
+
+	function placar() {
+	
+		$("#placar").html("<h2> Pontos: " + pontos + " Salvos: " + salvos + " Perdidos: " + perdidos + "</h2>");
+		
+	} //fim da função placar()
 	
 } // Fim da função start

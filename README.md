@@ -1,7 +1,11 @@
-# Jogo-de-Naves 🚁
+# Jogo de Naves 🚁
 
 Olá 👋
 
-Criei este repositório para divulgar o desafio do Bootcamp da DIO, recriando um jogo!
+Desafio do Bootcamp Take Blip Web Developer
 
-Espero que gostem do jogo 🎮🤓
+<div align="center">
+    <img src=exemplo.png>
+</div>
+
+
